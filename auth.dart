@@ -4,5 +4,10 @@ class Auth {
   }
 
   register() {}
-  logout() {}
+  logout() {
+    //logout
+  }
+  checkStatus(){
+    // this checks if your with us or not
+  }
 }
